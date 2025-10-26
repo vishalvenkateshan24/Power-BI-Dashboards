@@ -118,13 +118,13 @@ This structure enables multi-dimensional analysis across performance, geography,
 ## 📸 Dashboard Snapshots
 
 ### 🧩 Model Insights  
-![Model Insights](Dashboard/Screenshots/Model_Insights.png)
+![Model Insights](Dashboard/Model_Insights.png)
 
 ### 📊 Sales & Customer Insights  
-![Sales & Customer Insights](Dashboard/Screenshots/Sales_Customer_Insights.png)
+![Sales & Customer Insights](Dashboard/Sales_Customer_Insights.png)
 
 ### 🎯 Marketing Insights  
-![Marketing Insights](Dashboard/Screenshots/Marketing_Insights.png)
+![Marketing Insights](Dashboard/Marketing_Insights.png)
 
 
 ## 👩‍💻 Author
