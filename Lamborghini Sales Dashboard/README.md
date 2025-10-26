@@ -136,12 +136,3 @@ This structure enables multi-dimensional analysis across performance, geography,
 
 
 ⭐ *If you found this project insightful, consider giving it a star on GitHub!*
-
-
-
-Marketing performance analytics (spend vs return)
-
-Customer segmentation & loyalty analysis
-
-
-
