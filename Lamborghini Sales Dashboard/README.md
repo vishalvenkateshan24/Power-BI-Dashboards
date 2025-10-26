@@ -117,13 +117,13 @@ This structure enables multi-dimensional analysis across performance, geography,
 
 ## 📸 Dashboard Snapshots
 
-### Model Insights  
+### 🧩 Model Insights  
 ![Model Insights](Dashboard/Screenshots/Model_Insights.png)
 
-### Sales & Customer Insights  
+### 📊 Sales & Customer Insights  
 ![Sales & Customer Insights](Dashboard/Screenshots/Sales_Customer_Insights.png)
 
-### Marketing Insights  
+### 🎯 Marketing Insights  
 ![Marketing Insights](Dashboard/Screenshots/Marketing_Insights.png)
 
 
