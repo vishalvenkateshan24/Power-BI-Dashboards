@@ -191,17 +191,6 @@ The Southeast region surfaced as a strong contributor during root-cause analysis
 | **Power Query**      | Data cleaning & transformation         |
 | **GitHub**           | Version control & portfolio hosting    |
 
----
-
-# 📸 **Dashboard Snapshots**
-
-Included in this repository:
-
-* Product Analysis
-* Sales Analysis
-* Retailer Analysis
-
-(Placed in `Adidas Dashboard/Snapshots` )
 
 ---
 
