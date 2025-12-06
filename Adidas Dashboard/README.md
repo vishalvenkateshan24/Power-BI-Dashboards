@@ -201,7 +201,7 @@ Included in this repository:
 * Sales Analysis
 * Retailer Analysis
 
-(Placed in `/Snapshots` or root folder)
+(Placed in `Adidas Dashboard/Snapshots` )
 
 ---
 
