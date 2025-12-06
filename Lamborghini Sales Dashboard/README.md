@@ -130,8 +130,8 @@ This structure enables multi-dimensional analysis across performance, geography,
 ## 👩‍💻 Author
 
 **Vishal Venkateshan**  
-📧 vishal95.venkateshan@gmail.com
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/vishal-venkateshan/)  
+📧 [Email](vishal95.venkateshan@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/vishal-venkateshan/)  
 
 
 
