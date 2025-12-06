@@ -118,7 +118,7 @@ This structure enables multi-dimensional analysis across performance, geography,
 ## 📸 Dashboard Snapshots
 
 ### 🧩 Model Insights  
-![Model Insights](Dashboard/Model_Insights.png)
+<img width="2767" height="1672" alt="Model_Insights" src="https://github.com/user-attachments/assets/2d8f5b1e-618e-44c5-b2b8-af8046c235ab" />
 
 ### 📊 Sales & Customer Insights  
 ![Sales & Customer Insights](Dashboard/Sales_Customer_Insights.png)
